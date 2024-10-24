@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">utsproject</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+</resources>

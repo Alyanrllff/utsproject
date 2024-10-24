@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_person">ic_person</drawable>
+    <drawable name="ic_lock">ic_lock</drawable>
+    <drawable name="batagor">batagor</drawable>
+    <drawable name="black_salad">black_salad</drawable>
+    <drawable name="cappuchino">cappuchino</drawable>
+</resources>
